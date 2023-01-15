@@ -19,7 +19,8 @@
   "homepage": "https://github.com/janghyeokCho-hub/graphql#readme",
   "dependencies": {
     "apollo-server": "^3.11.1",
-    "graphql": "^16.6.0"
+    "graphql": "^16.6.0",
+    "node-fetch": "^3.3.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
